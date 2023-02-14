@@ -1,0 +1,2 @@
+which ./dogcom
+./dogcom -m dhcp -c ./drcom.conf -v -e
